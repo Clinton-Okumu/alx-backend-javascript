@@ -1,0 +1,22 @@
+# Node modules directory
+node_modules/
+
+# Dependency directories
+package-lock.json
+
+# Environment variables
+.env
+
+# Babel cache
+.babel.json
+.babelrc
+babel.config.js
+
+# Logs
+*.log
+
+# OS or Editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
